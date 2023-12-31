@@ -4585,15 +4585,12 @@ input[type="button"].btn-block {
           justify-content: space-between;
 }
 
+/* Add this CSS to your existing stylesheet */
 .navbar-brand {
-  display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
-  line-height: inherit;
-  white-space: nowrap;
+  color: #FF8882;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
 
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
