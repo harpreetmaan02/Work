@@ -70,6 +70,14 @@ body {
   background-color: #fff;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+.hire-button {
+  color: white;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
@@ -160,7 +168,7 @@ sup {
 }
 
 a {
-  color: #ff7a57;
+  color: white;
   text-decoration: none;
   background-color: transparent;
 }

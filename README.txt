@@ -1,9 +1,8 @@
-Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
 Product Page: https://wwww.devcrud.com/
 
 Credits:
 
+Designed with ♥️ and creativity by Devcrud.com 
     Demo Images:
         Unsplash:       (https://www.unsplash.com)
 
@@ -14,4 +13,3 @@ Credits:
 		jQuery (https://www.jquery.com)
 		Bootstrap (https://www.getbootstrap.com)
 		Bootstrap Affix (http://getbootstrap.com/javascript/#affix) 
-
