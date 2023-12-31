@@ -11234,7 +11234,7 @@ pre {
 }
 
 .contact {
-  position: relative;
+  /* position: relative; */
   border-radius: 0.3rem;
   border: 1px solid 1px;
   box-shadow: 1px 2px 6px rgba(173, 181, 189, 0.5);
